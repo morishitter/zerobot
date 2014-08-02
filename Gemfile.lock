@@ -35,6 +35,10 @@ GEM
       faraday
       faraday_middleware
       ruboty
+    ruboty-lgtm (0.0.3)
+      faraday
+      faraday_middleware
+      ruboty
     ruboty-slack (0.1.6)
       ruboty
       xrc (>= 0.0.6)
@@ -52,4 +56,5 @@ DEPENDENCIES
   ruboty
   ruboty-cron
   ruboty-google_image
+  ruboty-lgtm
   ruboty-slack
